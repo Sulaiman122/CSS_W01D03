@@ -1,3 +1,4 @@
 # CSS_W01D03
 
-gggg
+Task resolved by Position/float properties
+flex/grid not used.
