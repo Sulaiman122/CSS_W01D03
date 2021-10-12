@@ -1,7 +1,7 @@
 body{
     margin:0 auto;
     padding: 0;
-    width: 80%;
+    width: 65%;
 }
 
 img{
@@ -22,15 +22,13 @@ li{
 }
 
 .section{
-    width: 100%;
-    margin-bottom: 400px;
+    margin-bottom: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .part{
     border: 1px solid black;
-    width: 33.1%;
-    height: 360px;
-    float: left;
 }
 .part p,h2{
     padding: 0 7px;
